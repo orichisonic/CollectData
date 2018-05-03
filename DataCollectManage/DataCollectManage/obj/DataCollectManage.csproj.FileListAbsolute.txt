@@ -1,0 +1,58 @@
+E:\新建文件夹\DataCollectManage\DataCollectMonitor\obj\Debug\DataCollectMonitor.exe
+E:\新建文件夹\DataCollectManage\DataCollectMonitor\obj\Debug\DataCollectMonitor.pdb
+E:\新建文件夹\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.exe
+E:\新建文件夹\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.pdb
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\DataCollectMonitor.exe
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\DataCollectMonitor.pdb
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\Oracle.DataAccess.dll
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\ResolveAssemblyReference.cache
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmDataCollect.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGameBrowse.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGameEdit.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGame_InfoDetail.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmImort_ExpressBrowse.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmImport.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmLogin.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmUserBrowse.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmUserEdit.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.Main.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.Properties.Resources.resources
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectManage.csproj.GenerateResource.Cache
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.exe
+D:\work\DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.pdb
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.exe
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.pdb
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\ResolveAssemblyReference.cache
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmDataCollect.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGameBrowse.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGameEdit.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGame_InfoDetail.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmImort_ExpressBrowse.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmImport.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmLogin.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmUserBrowse.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmUserEdit.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.Main.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.Properties.Resources.resources
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectManage.csproj.GenerateResource.Cache
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\DataCollectMonitor.exe
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\DataCollectMonitor.pdb
+D:\work\复件 DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\Oracle.DataAccess.dll
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.exe
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.pdb
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\DataCollectMonitor.exe
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\DataCollectMonitor.pdb
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\bin\Debug\Oracle.DataAccess.dll
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\ResolveAssemblyReference.cache
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmDataCollect.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGameBrowse.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGameEdit.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmGame_InfoDetail.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmImort_ExpressBrowse.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmImport.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmLogin.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmUserBrowse.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.frmUserEdit.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.Main.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectMonitor.Properties.Resources.resources
+D:\work\11DataCollectManage\DataCollectManage\DataCollectManage\obj\Debug\DataCollectManage.csproj.GenerateResource.Cache

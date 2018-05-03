@@ -1,0 +1,200 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D1B73E2A-D052-4580-9857-DB284C568B86}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataCollectMonitor</RootNamespace>
+    <AssemblyName>DataCollectMonitor</AssemblyName>
+    <SccProjectName>"%24/新服务器采集/采集管理系统/Manager/DataCollectManage/DataCollectManage", JQGFAAAA</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>MSSCCI:Microsoft Visual SourceSafe</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C_Controls, Version=1.0.3184.31390, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C_Event, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C_Global, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C_Log, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C_Socket, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886" />
+    <Reference Include="ImageTextControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Language, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.DataAccess, Version=2.111.6.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Betweeness.cs" />
+    <Compile Include="CommonCLS.cs" />
+    <Compile Include="frmGameBrowse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGameBrowse.Designer.cs">
+      <DependentUpon>frmGameBrowse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataCollect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataCollect.Designer.cs">
+      <DependentUpon>frmDataCollect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGameEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGameEdit.Designer.cs">
+      <DependentUpon>frmGameEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGame_InfoDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGame_InfoDetail.Designer.cs">
+      <DependentUpon>frmGame_InfoDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImort_ExpressBrowse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImort_ExpressBrowse.Designer.cs">
+      <DependentUpon>frmImort_ExpressBrowse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImport.Designer.cs">
+      <DependentUpon>frmImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserBrowse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserBrowse.Designer.cs">
+      <DependentUpon>frmUserBrowse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserEdit.Designer.cs">
+      <DependentUpon>frmUserEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FTP.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmDataCollect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDataCollect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGameBrowse.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGameBrowse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGameEdit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGameEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGame_InfoDetail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGame_InfoDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImort_ExpressBrowse.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmImort_ExpressBrowse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserBrowse.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmUserBrowse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserEdit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmUserEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SqlOracle.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="UI\close_open.gif" />
+    <Content Include="UI\down.png" />
+    <Content Include="UI\left.gif" />
+    <Content Include="UI\left_right.gif" />
+    <Content Include="UI\left_right2.gif" />
+    <Content Include="UI\login.gif" />
+    <Content Include="UI\right.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

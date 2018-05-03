@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCollectManage", "DataCollectManage\DataCollectManage.csproj", "{D1B73E2A-D052-4580-9857-DB284C568B86}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/新服务器采集/采集管理系统/Manager/DataCollectManage\u0022,\u0020IQGFAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = DataCollectManage\\DataCollectManage.csproj
+		SccProjectName1 = \u0022$/新服务器采集/采集管理系统/Manager/DataCollectManage/DataCollectManage\u0022,\u0020JQGFAAAA
+		SccLocalPath1 = DataCollectManage
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B73E2A-D052-4580-9857-DB284C568B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B73E2A-D052-4580-9857-DB284C568B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B73E2A-D052-4580-9857-DB284C568B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B73E2A-D052-4580-9857-DB284C568B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
